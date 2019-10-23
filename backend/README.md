@@ -26,6 +26,7 @@ Provide a design for the [scenario](#scenario). The following should be taken in
 * Multi-tenancy
 * Scalability to allow us to grow from 1 to 1000 customers
 * Secure by design
+* APIs will evolve over time, how can we accomodate different clients using different API versions
 
 Make sure you highlight any architecturally relevant requirements.
 
