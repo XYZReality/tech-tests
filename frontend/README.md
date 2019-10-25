@@ -22,8 +22,6 @@ With either option your solution should:
 
 > This is your opportunity to show us your skills as a software engineer.
 
-Send your repo and answers to the questions to your contact at XYZ Reality.
-
 ### Standard Task
 
 Create a SPA using React that:

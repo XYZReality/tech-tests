@@ -12,11 +12,11 @@ Both parts are based on a schenario. Send your design/repo to your contact at XY
 
 Users of our cloud offering will be required to authenticate themselves. Authentication will be via username/password or a social login such as Google or Github.
 
-Once authenticated the users will use our React SPA. The SPA will make use of a number of backend APIs. The APIs must only be accessible to authenticated users and should be resilient to token tampering.
+Once authenticated the users will use our React front-end. The front-end will make use of a number of backend APIs. The APIs must only be accessible to authenticated users and should be resilient to token tampering.
 
-The SPA will initially allow uses to maintain their personal information such as name, contact details and also configuration profiles for a number of custom hardware devices they have access to. This user and preference data should be saved to /read from a perisistent data store.
+The front-end will initially allow uses to maintain their personal information such as name, contact details and also configuration profiles for a number of custom hardware devices they have access to. Additionally the front-end will be used to manage a list of tasks assigned to a user to complete. This user, preference and task data should be saved to /read from a perisistent data store.
 
-Users from different organizations will be using our services and so consideration should be given to multi-tenancy.
+Users from different organizations will be using our services and so consideration should be given to multi-tenancy. 
 
 # Design
 
@@ -32,7 +32,7 @@ Make sure you highlight any architecturally relevant requirements.
 
 # Implementation
 
-Implement a service from your design using a language of your choice (although Golang is preferred). 
+Implement a service from your design using a language of your choice (**although Golang is preferred**). 
 
 This should demonstrate what you think are important engineering practices and also what makes a service *production ready*. 
 
