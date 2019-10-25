@@ -10,7 +10,7 @@ There are separate tests depending on role:
 
 Each test is composed of a task (or choice of tasks) and a small number of questions. 
 
-**When you are completeing test please don't use a public repo. Once complete zip up all source code and supporting material and send it to us.**
+**Please don't use a public repo. Once completed,  zip up all source code and supporting material and send it to us via email.**
 
 > If you have any questions whilst doing the test reach out to someone at XYZ Reality to help.
 
