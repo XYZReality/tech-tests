@@ -32,7 +32,7 @@ Make sure you highlight any architecturally relevant requirements.
 
 # Implementation
 
-Implement a service from your design using a language of your choice (**although Golang is preferred**). 
+Implement a service from your design using Golang or NodeJS). 
 
 This should demonstrate what you think are important engineering practices and also what makes a service *production ready*. 
 
