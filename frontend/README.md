@@ -24,7 +24,7 @@ With either option your solution should:
 
 ### Standard Task
 
-Create a SPA using React that:
+Create a SPA using Angular that:
 * Provides an unauthenticated landing page with placeholder text (e.g. lorum ipsum) and a link to sign in
 * Implement OAuth authentication using Forge. You can signup for a free account [here](https://forge.autodesk.com/) and the API docs are [here](https://forge.autodesk.com/en/docs/oauth/v2/developers_guide/overview/). **Authentication must be 3-legged.**
 * When you are authenticated using [three.js](https://threejs.org/) to display the [sample.obj](./sample.obj) file in this folder.
@@ -32,7 +32,7 @@ Create a SPA using React that:
 
 ### Advanced Task
 
-Create a SPA using React that:
+Create a SPA using Angular that:
 * Provides an unauthenticated landing page with placeholder text (e.g. lorum ipsum) and a link to sign in
 * Implement OAuth authentication using Forge. You can signup for a free account [here](https://forge.autodesk.com/) and the API docs are [here](https://forge.autodesk.com/en/docs/oauth/v2/developers_guide/overview/). **Authentication must be 3-legged.**
 * When you are authenticated:
@@ -43,7 +43,7 @@ Create a SPA using React that:
      
 ## Questions
 
-1. What are the benefits to using a framework like React?
+1. What are the benefits to using a framework like Angular?
 2. What are your thoughts on the Forge API?
 3. How long did the test take?
 4. What the pros and cons to static site generation?
