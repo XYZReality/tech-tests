@@ -27,7 +27,7 @@ With either option your solution should:
 Create a SPA using Angular that:
 * Provides an unauthenticated landing page with placeholder text (e.g. lorum ipsum) and a link to sign in
 * Implement OAuth authentication using Forge. You can signup for a free account [here](https://forge.autodesk.com/) and the API docs are [here](https://forge.autodesk.com/en/docs/oauth/v2/developers_guide/overview/). **Authentication must be 3-legged.**
-* When you are authenticated using [three.js](https://threejs.org/) to display the [sample.obj](./sample.obj) file in this folder.
+* When you are authenticated, use [three.js](https://threejs.org/) to display the [sample.obj](./sample.obj) file in this folder.
 * If authenticated there should be a signout link that will sign you out
 
 ### Advanced Task
