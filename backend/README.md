@@ -11,7 +11,7 @@ Both parts are based on a schenario. Send your design/repo to your contact at XY
 # Scenario
 
 Users of our cloud offering will be required to signup and then when logging in they are required to authenticate themselves. Authentication will be via username/password.
-When signing up the user will be able sign up with the detials:
+When signing up the user will be able sign up with the details:
 1)  Unique Email address
 2)  First and Surname
 3)  Company
